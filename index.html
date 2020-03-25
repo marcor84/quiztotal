@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="style.css?ts=<?=time()?>&quot" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="jquery-1.11.2.js"></script>
+<script type="text/javascript" src="script.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">   
+ 
+    </script>
+<title>Quiz</title>
+</head>
+<body id="body">
+
+
+<div class="container-fluid" id="hold">
+		<div class="row">
+			<div class="col-xs-12 col-md-4">
+			<h1 id="head">Question 1</h1>
+			<p id="question"></p>
+			</div>
+		</div>
+	</div>
+
+	<div id="answers">
+		<div class="container-fluid" id="first">
+			<div class="row">
+				<div class="col-xs-6 col-md-6">
+				<button  class="btn" id="btn1" onclick="getResult(1)"></button>
+				</div>
+
+				<div class="col-xs-6 col-md-6">
+				<button class="btn" id="btn2" onclick="getResult(2)"></button>
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid" id="sec">
+			<div class="row">
+				<div class="col-xs-6 col-md-6">
+				<button  class="btn" id="btn3" onclick="getResult(3)"></button>
+				</div>
+
+				<div class="col-xs-6 col-md-6">
+				<button  class="btn" id="btn4" onclick="getResult(4)"></button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+
+    
+</body>
+    
+    
+
+</html>

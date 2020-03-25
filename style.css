@@ -1,0 +1,54 @@
+#head
+{
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#question
+{
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20;
+}
+
+.btn
+{
+    background-color: #1eaaf1;
+    color: white;
+}
+
+#answers
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f4f5f6;
+
+    margin-top: 3vw;
+    padding-top: 4vh;
+
+    margin-bottom: 2vh;
+    padding-bottom: 4vh;
+
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+
+    border-bottom:2px solid #e3e3e4;
+    border-right:2px solid #e3e3e4;
+
+}
+
+#first
+{   
+    margin-bottom: 5%;
+}
+
+#hold
+{
+    background-color: #1eaaf1;
+    color: white;
+}
