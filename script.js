@@ -63,7 +63,7 @@ questions.push("Quin d'ells no era un ratolí?");
 
 window.onload = function() 
 {
-  	document.getElementById("question").innerHTML=questions[questionNo];
+  	document.getElementById("Pregunta").innerHTML=questions[questionNo];
 
   	for(i=1;i<=8;i++)
   	{
