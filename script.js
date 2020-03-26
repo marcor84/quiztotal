@@ -1,5 +1,5 @@
 score=0;
-answer=3;
+answer=8;
 questionNo=0;
 questionNum=1;
 answerKey=0;
@@ -9,6 +9,11 @@ answerNumbers=[];
 answerNumbers.push("3");
 answerNumbers.push("1");
 answerNumbers.push("4");
+answerNumbers.push("3");
+answerNumbers.push("1");
+answerNumbers.push("4");
+answerNumbers.push("3");
+answerNumbers.push("1");
 
 answers=[];
 answers.push("1");
