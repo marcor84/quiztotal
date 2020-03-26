@@ -23,12 +23,38 @@ answers.push("Man city");
 answers.push("Liverpool");
 answers.push("Man Utd");
 answers.push("Chelsea");
+answers.push("22222");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
+answers.push("aaaaaa");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
+answers.push("eiiii");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
+answers.push("7777");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
+answers.push("aawdafasfafs");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
 
 
 questions=[];
-questions.push("How many times have liverpool won the champions league?");
-questions.push("Who is the all time leading socrer in the premier league?");
-questions.push("Who won the 2016/2017 premier league?");
+questions.push("Hamster és un germanisme que fa referència a l'especie dels...");
+questions.push("Quina espècie de hamster pot arribar a fer 35 cm de llarc?");
+questions.push("Quina és la velocitat màxima que pot arribar un hamster?");
+questions.push("Com es diuen els 4 pinguins de Madagascar?");
+questions.push("Quina de les espècies no és un pinguí?");
+questions.push("Quuantes espècies hi ha actualment al zoo de Barcelona?");
+questions.push("Quin és el ratolí més famós de la història?");
+questions.push("Quin d'ells no era un ratolí?");
+
 
 window.onload = function() 
 {
