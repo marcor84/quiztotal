@@ -40,14 +40,14 @@ answers.push("300");
 answers.push("900");
 answers.push("150");
 answers.push("1200");
-answers.push("7777");
-answers.push("Liverpool");
-answers.push("Man Utd");
-answers.push("Chelsea");
-answers.push("aawdafasfafs");
-answers.push("Liverpool");
-answers.push("Man Utd");
-answers.push("Chelsea");
+answers.push("Azrael");
+answers.push("Alvin");
+answers.push("Jerry");
+answers.push("Dory");
+answers.push("Remy");
+answers.push("Stuart Little");
+answers.push("Splinter");
+answers.push("Jerry");
 
 
 questions=[];
