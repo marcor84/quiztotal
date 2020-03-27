@@ -25,39 +25,22 @@ answers.push("Alan Shearer");
 answers.push("Robbie Fowler");
 answers.push("Didier Drogba");
 answers.push("Man city");
-answers.push("Sciurus");
-answers.push("Cricetinae");
-answers.push("Sirics");
-answers.push("Carassius");
-answers.push("Hamster xinés");
-answers.push("Hamster vulgar");
-answers.push("Hamster maximus");
-answers.push("Hamster de Roborowski");
-answers.push("120 km/h");
-answers.push("1,2 km/h");
-answers.push("6 km/h");
-answers.push("12 km/h");
-answers.push("nom");
-answers.push("nom");
-answers.push("nom");
-answers.push("nom");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
+answers.push("22222");
+answers.push("Liverpool");
+answers.push("Man Utd");
+answers.push("Chelsea");
 answers.push("aaaaaa");
 answers.push("Liverpool");
 answers.push("Man Utd");
-answers.push("Chelea");
+answers.push("Chelsea");
 answers.push("eiiii");
 answers.push("Liverpool");
 answers.push("Man Utd");
 answers.push("Chelsea");
 answers.push("7777");
-answers.push("Liverpool");
-answers.push("Man Utd");
-answers.push("Chelsea");
-answers.push("aawdafasfafs");
-answers.push("Liverpool");
-answers.push("Man Utd");
-answers.push("Chelsea");
-answers.push("aawdafasfafs");
 answers.push("Liverpool");
 answers.push("Man Utd");
 answers.push("Chelsea");
@@ -80,7 +63,7 @@ questions.push("Quin d'ells no era un ratolí?");
 
 window.onload = function() 
 {
-  	document.getElementById("Pregunta").innerHTML=questions[questionNo];
+  	document.getElementById("question").innerHTML=questions[questionNo];
 
   	for(i=1;i<=8;i++)
   	{
@@ -135,16 +118,3 @@ document.getElementById("question").innerHTML="";
 
 document.getElementById("answers").innerHTML="<p id='score'>Your score was "+ score +"</p>";
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
