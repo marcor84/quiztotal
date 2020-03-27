@@ -58,7 +58,7 @@ questions.push("Com es diuen els 4 pinguins de Madagascar?");
 questions.push("Quina de les espècies no és un pinguí?");
 questions.push("Quantes espècies hi ha actualment al zoo de Barcelona?");
 questions.push("Quin és el ratolí més famós de la història?");
-questions.push("Quin d'ells no era un ratolí?");
+questions.push("Quin d'ells no era un ratolí??");
 
 
 window.onload = function() 
