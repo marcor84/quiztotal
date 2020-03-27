@@ -9,15 +9,17 @@ answerNumbers=[];
 answerNumbers.push("2");
 answerNumbers.push("2");
 answerNumbers.push("3");
-answerNumbers.push("3");
+answerNumbers.push("4");
 answerNumbers.push("4");
 answerNumbers.push("1");
 answerNumbers.push("3");
+answerNumbers.push("2");
 answerNumbers.push("1");
+
 
 answers=[];
 answers.push("Sciurus");
-answers.push("Cricetinae");
+answers.push("cricetins");
 answers.push("Sirics");
 answers.push("Carassius");
 answers.push("Hàmster xinés");
@@ -48,17 +50,22 @@ answers.push("Remy");
 answers.push("Stuart Little");
 answers.push("Splinter");
 answers.push("Jerry");
+answers.push("1892");
+answers.push("1852");
+answers.push("1921");
+answers.push("1899");
 
 
 questions=[];
-questions.push("Hamster és un germanisme que fa referència a l'especie dels...");
-questions.push("Quina espècie de hamster pot arribar a fer 35 cm de llarc?");
-questions.push("Quina és la velocitat màxima que pot arribar un hamster?");
-questions.push("Com es diuen els 4 pinguins de Madagascar?");
-questions.push("Quina de les espècies no és un pinguí?");
+questions.push("Hàmster és un germanisme que fa referència als...");
+questions.push("Quina espècie de hàmster pot arribar a fer 35 cm de llarg");
+questions.push("Quina és la velocitat màxima a la que pot arribar un hàmster?");
+questions.push("Com es diuen els 4 pingûins de Madagascar?");
+questions.push("Quina de les espècies no és un pingûí?");
 questions.push("Quantes espècies hi ha actualment al zoo de Barcelona?");
 questions.push("Quin és el ratolí més famós de la història?");
 questions.push("Quin d'ells no era un ratolí??");
+questions.push("En quin any es va inaugurar el zoo de Barcelona?");
 
 
 window.onload = function() 
