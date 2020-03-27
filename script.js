@@ -16,10 +16,10 @@ answerNumbers.push("3");
 answerNumbers.push("1");
 
 answers=[];
-answers.push("1");
-answers.push("4");
-answers.push("5");
-answers.push("7");
+answers.push("Sciurus");
+answers.push("Cricetinae");
+answers.push("Sirics");
+answers.push("Carassius");
 answers.push("Theiry Henry");
 answers.push("Alan Shearer");
 answers.push("Robbie Fowler");
