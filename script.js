@@ -9,13 +9,13 @@ answerNumbers=[];
 answerNumbers.push("2");
 answerNumbers.push("2");
 answerNumbers.push("3");
-answerNumbers.push("4");
+answerNumbers.push("1");
 answerNumbers.push("4");
 answerNumbers.push("1");
 answerNumbers.push("3");
 answerNumbers.push("2");
 answerNumbers.push("1");
-
+answerNumbers.push("2");
 
 answers=[];
 answers.push("Sciurus");
@@ -30,10 +30,10 @@ answers.push("120 km/h");
 answers.push("1.2 km/h");
 answers.push("6 km/h");
 answers.push("12 km/h");
-answers.push("nom1");
-answers.push("nom2");
-answers.push("nom3");
-answers.push("nom4");
+answers.push("Capità, Recluta, Kowalski i Rico");
+answers.push("Capità, Recluta, Tinent i General");	
+answers.push("Kowalski, Manfredi, Johnson i Mason");
+answers.push("Humbolt, Scalter, Adèlia i Emperador");
 answers.push("reial");
 answers.push("carablanca");
 answers.push("ullgroc");
@@ -54,19 +54,22 @@ answers.push("1892");
 answers.push("1852");
 answers.push("1921");
 answers.push("1899");
-
+answers.push("Neix el grup Amics del lliceu");
+answers.push("Comencen les obres a l'Auditori de Barcelona");
+answers.push("El palau de la música de Barcelona va ser declarat Patrimoni de la Humanitat per la Unesco");
+answers.push("S'estrena la pel·lícula Robocop");
 
 questions=[];
 questions.push("Hàmster és un germanisme que fa referència als...");
 questions.push("Quina espècie de hàmster pot arribar a fer 35 cm de llarg");
 questions.push("Quina és la velocitat màxima a la que pot arribar un hàmster?");
-questions.push("Com es diuen els 4 pingûins de Madagascar?");
+questions.push("Com es diuen els 4 pingüins de Madagascar?");
 questions.push("Quina de les espècies no és un pingûí?");
 questions.push("Quantes espècies hi ha actualment al zoo de Barcelona?");
 questions.push("Quin és el ratolí més famós de la història?");
 questions.push("Quin d'ells no era un ratolí??");
 questions.push("En quin any es va inaugurar el zoo de Barcelona?");
-
+questions.push("Quin d'aquests esdeveniments no va passar fa 33 anys?");
 
 window.onload = function() 
 {
