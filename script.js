@@ -19,7 +19,7 @@ answerNumbers.push("2");
 
 answers=[];
 answers.push("Sciurus");
-answers.push("cricetins");
+answers.push("Cricetins");
 answers.push("Sirics");
 answers.push("Carassius");
 answers.push("Hàmster xinés");
