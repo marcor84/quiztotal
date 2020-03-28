@@ -67,7 +67,7 @@ questions.push("Com es diuen els 4 pingüins de Madagascar?");
 questions.push("Quina de les espècies no és un pingûí?");
 questions.push("Quantes espècies hi ha actualment al zoo de Barcelona?");
 questions.push("Quin és el ratolí més famós de la història?");
-questions.push("Quin d'ells no era un ratolí??");
+questions.push("Quin d'ells no era un ratolí?");
 questions.push("En quin any es va inaugurar el zoo de Barcelona?");
 questions.push("Quin d'aquests esdeveniments no va passar fa 33 anys?");
 
@@ -90,7 +90,7 @@ function getResult(value)
 		score++;
 	}
 
-	if(questionNo==9)
+	if(questionNo==10)
 	{
 		finish();
 	}
