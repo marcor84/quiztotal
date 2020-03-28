@@ -56,7 +56,7 @@ answers.push("1921");
 answers.push("1899");
 answers.push("Neix el grup Amics del lliceu");
 answers.push("Comencen les obres a l'Auditori de Barcelona");
-answers.push("El palau de la música de Barcelona va ser declarat Patrimoni de la Humanitat per la Unesco");
+answers.push("El palau de la música de Barcelona va \n ser declarat Patrimoni de la Humanitat per la Unesco");
 answers.push("S'estrena la pel·lícula Robocop");
 
 questions=[];
