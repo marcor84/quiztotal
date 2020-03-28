@@ -56,7 +56,7 @@ answers.push("1921");
 answers.push("1899");
 answers.push("Neix el grup Amics del lliceu");
 answers.push("Comencen les obres a l'Auditori de Barcelona");
-answers.push("El Palau de la Música va ser declarat Patrimoni de la Humanitat");
+answers.push("El Palau de la Música va ser<br> declarat Patrimoni de la Humanitat");
 answers.push("S'estrena la pel·lícula Robocop");
 
 questions=[];
@@ -75,7 +75,7 @@ window.onload = function()
 {
   	document.getElementById("question").innerHTML=questions[questionNo];
 
-  	for(i=1;i<=11;i++)
+  	for(i=1;i<=4;i++)
   	{
   		document.getElementById("btn"+i).innerHTML=answers[answerKey];
   		answerKey++;
@@ -90,7 +90,7 @@ function getResult(value)
 		score++;
 	}
 
-	if(questionNo==9)
+	if(questionNo==10)
 	{
 		finish();
 	}
