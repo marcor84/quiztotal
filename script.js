@@ -1,5 +1,5 @@
 score=0;
-answer=9;
+answer=10;
 questionNo=0;
 questionNum=1;
 answerKey=0;
