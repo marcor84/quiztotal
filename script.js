@@ -60,7 +60,7 @@ answers.push("El palau de la música de Barcelona va \n ser declarat Patrimoni d
 answers.push("S'estrena la pel·lícula Robocop");
 
 questions=[];
-questions.push("Hàmster és un germanisme que fa referència als....");
+questions.push("Hàmster és un germanisme que fa referència als...");
 questions.push("Quina espècie de hàmster pot arribar a fer 35 cm de llarg");
 questions.push("Quina és la velocitat màxima a la que pot arribar un hàmster?");
 questions.push("Com es diuen els 4 pingüins de Madagascar?");
