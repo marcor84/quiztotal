@@ -75,7 +75,7 @@ window.onload = function()
 {
   	document.getElementById("question").innerHTML=questions[questionNo];
 
-  	for(i=1;i<=8;i++)
+  	for(i=1;i<=9;i++)
   	{
   		document.getElementById("btn"+i).innerHTML=answers[answerKey];
   		answerKey++;
@@ -90,7 +90,7 @@ function getResult(value)
 		score++;
 	}
 
-	if(questionNo==10)
+	if(questionNo==9)
 	{
 		finish();
 	}
