@@ -75,7 +75,7 @@ window.onload = function()
 {
   	document.getElementById("question").innerHTML=questions[questionNo];
 
-  	for(i=1;i<=10;i++)
+  	for(i=1;i<=11;i++)
   	{
   		document.getElementById("btn"+i).innerHTML=answers[answerKey];
   		answerKey++;
