@@ -48,8 +48,8 @@ answers.push("Alvin");
 answers.push("Azrael");
 answers.push("Dory");
 answers.push("Stuart Little");
-answers.push("Remy");
 answers.push("Mickey Mouse");
+answers.push("Remy");
 answers.push("Jerry");
 answers.push("1892");
 answers.push("1852");
@@ -61,7 +61,7 @@ answers.push("El Palau de la Música va ser<br> declarat Patrimoni de la Humanit
 answers.push("S'estrena la pel·lícula Robocop");
 
 questions=[];
-questions.push("Hàmster és un germanisme que fa referència als...");
+questions.push("Hàmster és un germanisme que fa referència als..w.");
 questions.push("Quina espècie de hàmster pot arribar a fer 35 cm de llarg");
 questions.push("Quina és la velocitat màxima a la que pot arribar un hàmster?");
 questions.push("Com es diuen els 4 pingüins de Madagascar?");
